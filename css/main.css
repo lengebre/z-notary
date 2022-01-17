@@ -1,4 +1,8 @@
-.hero__img {
-  width: 100%;
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.wrapper__logo img {
+  width: 7%;
 }
 /*# sourceMappingURL=main.css.map */
